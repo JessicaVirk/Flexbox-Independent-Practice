@@ -1,0 +1,56 @@
+.menu1 {
+   display: flex;
+   justify-content: center;
+   background-color: grey;
+    margin: 5px;
+    padding: 10px;
+    border: 5px double green;
+    
+}
+
+.item1 {
+	margin: 5px;
+    padding: 10px;
+    border: 5px double pink;
+    background-color: lightblue;
+
+}
+
+.menu2 {
+   display: flex;
+   justify-content: flex-start;
+   background-color: pink;
+   margin: 6px;
+   padding: 10px;
+   border: 5px double blue;   
+}
+
+.item2 {
+	margin: 5px;
+    padding: 10px;
+    border: 5px double black;
+    background-color: lightgreen;
+
+}
+
+.menu3 {
+   display: flex;
+   justify-content: flex-end;
+   background-color: purple;
+   margin: 6px;
+   padding: 10px;
+   border: 5px double black;   
+
+}
+
+.item3 {
+	margin: 5px;
+    padding: 10px;
+    border: 5px double yellow;
+    background-color: aqua;
+
+}
+
+
+
+
